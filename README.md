@@ -1,4 +1,4 @@
-## Colors and stuff
+## P5 Experiments
 
-Infinite animation using p5 js library
-Demo: https://rupindr.github.io/colors-and-stuff/
+Some drawing and animation experiments with p5 js library
+Demo: https://rupindr.github.io/p5-experiments/
